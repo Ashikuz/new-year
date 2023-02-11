@@ -1,0 +1,35 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+
+}
+
+/* header section */
+
+.header {
+    text-align: right;
+    background-image: url('../new-year-new-me-main/images/banner/banner2.png');
+
+    height: 800px;
+    width: 100%;
+
+}
+
+.header-section {
+    padding: 200px 200px 275px 800px;
+}
+
+.primary-btn {
+    background-color: orangered;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #151414;
+    margin-bottom: 30px;
+}
