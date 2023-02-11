@@ -21,6 +21,7 @@
 
 .primary-btn {
     background-color: orangered;
+    color: white;
     border: none;
     padding: 15px 20px;
     border-radius: 5px;
@@ -32,4 +33,29 @@
     font-size: 45px;
     color: #151414;
     margin-bottom: 30px;
+}
+
+/* main section 1 styles */
+
+.my-failures {
+    display: flex;
+    gap: 87px;
+    padding: 180px 200px;
+}
+
+.failures-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 140px;
+    margin-bottom: 24px;
+    color: #444343;
+}
+
+.list {
+    margin-top: 16px;
+    list-style: none;
+}
+
+.list-item {
+    margin-top: 16px;
 }
