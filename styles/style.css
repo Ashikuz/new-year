@@ -150,3 +150,79 @@
     border-radius: 5px;
 
 }
+
+/* footer styles */
+
+.footer {
+    background: #151414;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 80px 175px;
+}
+
+
+
+
+
+.footer-phone {
+    margin-bottom: 19px;
+}
+
+.footer-email {
+    margin-bottom: 19px;
+}
+
+.footer-description {
+    margin-bottom: 19px;
+}
+
+.footer-title {
+    margin-bottom: 19px;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+
+
+
+
+.footer-subscribe {
+
+    padding-left: 300px;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 20px;
+
+
+
+}
+
+input {
+    margin-left: 300px;
+    width: 325px;
+    height: 64px;
+    color: white;
+    border-color: white;
+    background: #151414;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+
+.subscribe-btn {
+    background-color: white;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 30px;
+    border: none;
+    margin-bottom: 40px;
+    margin-left: 300px;
+    border-radius: 5px;
+
+
+
+
+}
