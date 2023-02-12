@@ -91,3 +91,33 @@
     justify-content: center;
     text-align: center;
 }
+
+/* my goal section styles */
+
+.goal-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.goal {
+    display: flex;
+
+    gap: 40px;
+    justify-content: space-around;
+}
+
+.goal-description {
+    padding: 50px 300px 50px 300px;
+    padding-right: 200px;
+    width: 50%;
+
+
+}
+
+.goal-list {
+    width: 50%;
+    padding-right: 540px;
+    padding-top: 50px;
+
+}
