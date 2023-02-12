@@ -59,3 +59,35 @@
 .list-item {
     margin-top: 16px;
 }
+
+/* section plan styles */
+.plan-heading {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.plans {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 180px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.plan-description {
+    font-size: 20px;
+    line-height: 29px;
+    color: #737272;
+    margin-top: 16px;
+}
+
+.plan-image .plan-title .plan-description {
+    justify-content: center;
+    text-align: center;
+}
