@@ -121,3 +121,32 @@
     padding-top: 50px;
 
 }
+
+/* gradient section styles */
+
+.gradient {
+
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('../new-year-new-me-main/images/watch.png');
+    border-radius: 8px;
+    margin: 80px 180px;
+}
+
+.gradient-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 40px 400px 30px 64px;
+}
+
+.gradient-btn {
+    background-color: white;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 30px;
+    border: none;
+    margin-bottom: 40px;
+    margin-left: 64px;
+    border-radius: 5px;
+
+}
